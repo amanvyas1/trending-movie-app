@@ -1,7 +1,8 @@
 # Trending Movie App
 A movie app where users can search for movies and see the description of the movie.
 
-
+## Live
+https://mellifluous-beijinho-cc71ba.netlify.app/
 
 ## Features
 
